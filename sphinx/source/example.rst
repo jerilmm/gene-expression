@@ -61,7 +61,7 @@ Software Requirements Specification For Gene Expression Scatter Plot
 
  Our scatter plot model is as follows :
  
- .. image:: /source/img.png
+ .. image:: https://raw.githubusercontent.com/jerilmm/gene-expression/master/sphinx/source/img.png
 
 3. Non-functional Requirements
 ==============================
