@@ -13,6 +13,13 @@ Software Requirements Specification for Gene Expression Version 0.1
 
 
    introduction
+   functional-requirements
+   nonfunctional-requirements
+   constraints
+   change-cases
+   milestones
+   appendices
+   references
 
 
 Group Information
