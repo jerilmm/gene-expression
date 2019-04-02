@@ -117,15 +117,4 @@
 =============
 Readthedocs:  https://readthedocs.org/
 
-Group Information
-=================
 
-Group Name:
------------
- Jeril&Holly
-
-Group Member:
--------------
-Jiang Jialing(Jeril 201732120103) : 1850424414@qq.com
-
-Wang Hairong(Holly 201732120105) : 1012635788@qq.com 
