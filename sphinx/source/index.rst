@@ -12,7 +12,7 @@ Software Requirements Specification for Gene Expression Version 0.1
 
 
 
-   example
+   introduction
 
 
 Group Information
