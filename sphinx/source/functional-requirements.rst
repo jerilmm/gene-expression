@@ -23,4 +23,4 @@
 
  Our scatter plot model is as follows :
 
-
+ .. image:: https://raw.githubusercontent.com/jerilmm/gene-expression/master/sphinx/source/img.png
