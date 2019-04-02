@@ -13,6 +13,23 @@ Software Requirements Specification for Gene Expression Version 0.1
 
 
    example
+
+
+Group Information
+=================
+
+Group Name:
+-----------
+Jeril&Holly
+
+Group Member:
+-------------
+    1. 蒋佳玲(Jeril 201732120103) : 1850424414@qq.com
+    #. 王海榕(Holly 201732120105) : 1012635788@qq.com
+
+
+
+Indices and tables
 ==================
 
 * :ref:`genindex`
