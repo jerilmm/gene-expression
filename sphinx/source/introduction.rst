@@ -20,7 +20,6 @@
 -------------------------
 1.3.1. User Characteristics
 ****************************
-
  * clients: Biologists who are using web application to processing experimental data. 
 
  * web maintainers: Computer technicians skilled in python and github.
