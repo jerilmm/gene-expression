@@ -33,5 +33,6 @@
 -------------------
  In order to introduce the project and specify the requirements in detail, this section will explain some terminologies so that the clients and maintainers have better understanding of the content of the project.
   *JavaScript Object Notation(json)* - A lightweight data interchange format based on the JavaScript language.
+  
   *Invalid file* - The document type is not json and the contents of the files can not represent the level of gene expression.
 
