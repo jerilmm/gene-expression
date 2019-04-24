@@ -12,4 +12,4 @@
 
 3.3. Confidentiality Policy
 ---------------------------
- This project is a public web application, it is important to ensure data security. Especially for some biologist, they attach great importance to experimental data. So this application must keep experimental data confidential and the data must not be allowed to read without agreement of the owner.
+ This application is mainly used by biologists. We must ensure the safety of experimental data before they officially announce the results of experiments. Therefore, after users use the application, the program will delete their experimental data files.
