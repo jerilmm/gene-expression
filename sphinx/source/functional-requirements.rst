@@ -6,7 +6,7 @@
 ----------
  A valid submitted gene expression file has the following format :
 
- * Users have to submit three json files.
+ * Users have to submit three files.
 
  * For the file format, the file have to be json file.
 
