@@ -13,7 +13,3 @@
 4.3. Budget
 -----------
  Budget less than 10,000 USD.
-
-4.4. System Downtime
---------------------
- System downtime should be less than 30 minutes per year for a better user experience.
